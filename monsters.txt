@@ -1,5 +1,0 @@
-Goblin_King 70 100
-Goblin_Warrior 40 50
-Ogre 50 80
-Bandit_Leader 60 70
-Fire_Dragon 1000 200
