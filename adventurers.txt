@@ -1,0 +1,3 @@
+Aragorn 50 30
+Legolas 40 20
+Gimli 60 40
