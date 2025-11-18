@@ -1,3 +1,0 @@
-Defeat_the_Goblin_King 70 Goblin_Warrior-Goblin_Warrior-Ogre-Goblin_King
-Rescue_the_Village 50 Ogre-Ogre-Bandit_Leader
-Slay_the_Dragon 100 Fire_Dragon
